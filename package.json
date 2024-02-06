@@ -1,9 +1,9 @@
 {
-	"name": "chatIO",
-	"version": "0.0.1",
-	"private": "true",
-	"dependencies": {
-		"socket.io": "*",
-		"express": "*"
-	}
+  "name": "chatIO",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  }
 }
